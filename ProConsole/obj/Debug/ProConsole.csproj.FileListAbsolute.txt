@@ -1,0 +1,13 @@
+C:\Users\Sekâri\Documents\Visual Studio 2017\Projects\ProConsole\ProConsole\bin\Debug\ProConsole.dll.config
+C:\Users\Sekâri\Documents\Visual Studio 2017\Projects\ProConsole\ProConsole\bin\Debug\ProConsole.dll
+C:\Users\Sekâri\Documents\Visual Studio 2017\Projects\ProConsole\ProConsole\bin\Debug\ProConsole.pdb
+C:\Users\Sekâri\Documents\Visual Studio 2017\Projects\ProConsole\ProConsole\obj\Debug\ProConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sekâri\Documents\Visual Studio 2017\Projects\ProConsole\ProConsole\obj\Debug\ProConsole.dll
+C:\Users\Sekâri\Documents\Visual Studio 2017\Projects\ProConsole\ProConsole\obj\Debug\ProConsole.pdb
+C:\Users\Sekâri\Documents\Visual Studio 2017\Projects\ProConsole\ProConsole\obj\Debug\ProConsole.csprojAssemblyReference.cache
+C:\Users\Sekâri\Documents\Visual Studio 2019\Projects\ProConsole\ProConsole\bin\Debug\ProConsole.dll.config
+C:\Users\Sekâri\Documents\Visual Studio 2019\Projects\ProConsole\ProConsole\bin\Debug\ProConsole.dll
+C:\Users\Sekâri\Documents\Visual Studio 2019\Projects\ProConsole\ProConsole\bin\Debug\ProConsole.pdb
+C:\Users\Sekâri\Documents\Visual Studio 2019\Projects\ProConsole\ProConsole\obj\Debug\ProConsole.csprojAssemblyReference.cache
+C:\Users\Sekâri\Documents\Visual Studio 2019\Projects\ProConsole\ProConsole\obj\Debug\ProConsole.dll
+C:\Users\Sekâri\Documents\Visual Studio 2019\Projects\ProConsole\ProConsole\obj\Debug\ProConsole.pdb
